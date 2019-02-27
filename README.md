@@ -5,7 +5,7 @@ Second homework of the Natural Language Processing course, prof. Roberto Navigli
 
 University project • 2016 - Natural Language Processing - MSc in Computer Science, I year
 
-The statement of the problem is in `Homework2.pdf`, the solution code is is accompanied by a report of the performed experiments (`report.pdf`).
+The statement of the problem is in `Homework2.pdf`, the solution code is is accompanied by a report of the performed experiments (`report.pdf`), I strongly suggest you read it to understand the solution code.
 
 ## Introduction
 A Part-Of-Speech Tagger (POS Tagger) is a piece of software that reads text in some language and assigns parts of speech to each word (and other token), such as noun, verb, adjective, etc. 
