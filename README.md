@@ -3,7 +3,7 @@ Supervised POS Tagger with LSTM.
 
 Second homework of the Natural Language Processing course, prof. Roberto Navigli.
 
-University project • 2016 - Natural Language Processing - MSc in Computer Science, I year
+University project • 2017 - Natural Language Processing - MSc in Computer Science, I year
 
 The statement of the problem is in `Homework2.pdf`, the solution code is is accompanied by a report of the performed experiments (`report.pdf`), I strongly suggest you read it to understand the solution code.
 
