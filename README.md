@@ -1,4 +1,4 @@
-# Supervised-POS-Tagger-with-LSTM
+# Supervised POS Tagger with LSTM
 Supervised POS Tagger with LSTM. 
 
 Second homework of the Natural Language Processing course, prof. Roberto Navigli.
